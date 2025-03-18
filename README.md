@@ -23,6 +23,20 @@ This project provides a **structured way** to handle student-mentor assignments.
 
 ---
 
+## 🛠️ Tech Stack  
+
+| **Technology** | **Description** |
+|--------------|-------------|
+| **React.js** | Frontend UI framework |
+| **MongoDB** | NoSQL Database for storing students & mentors |
+| **Express.js** | Backend framework to handle API requests |
+| **Node.js** | Runtime environment for server-side code |
+| **Bootstrap** | UI framework |
+| **Axios** | API requests to backend |
+| **Vercel & Render** | Hosting for frontend & backend |
+
+---
+
 ## 📸 Screenshots  
 
 📌 **Dashboard**  
@@ -33,17 +47,5 @@ This project provides a **structured way** to handle student-mentor assignments.
 
 ---
 
-## 🛠️ Tech Stack  
 
-| **Technology** | **Description** |
-|--------------|-------------|
-| **React.js** | Frontend UI framework |
-| **MongoDB** | NoSQL Database for storing students & mentors |
-| **Express.js** | Backend framework to handle API requests |
-| **Node.js** | Runtime environment for server-side code |
-| **Bootstrap / Tailwind CSS** | Responsive UI framework |
-| **Axios** | API requests to backend |
-| **Vercel & Render** | Hosting for frontend & backend |
-
----
 
